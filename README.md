@@ -1,7 +1,7 @@
 # E-commerce-app
 
 ## Explanation video links: 
-
+![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/e_commerce_app_start.gif)
 
 ## Your Task
 
