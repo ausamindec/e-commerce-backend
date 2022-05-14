@@ -1,7 +1,22 @@
 # E-commerce-app
 
 ## Explanation video links: 
+
+### Walkthrough to start the server
+
 ![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/e_commerce_app_start.gif)
+
+### Walkthrough to test categories API
+
+![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/categories_API_testing.gif)
+
+### Walkthrough to test products API
+
+![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/products_API_Testing.gif)
+
+### Walkthrough to test tags API
+
+![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/tags_API_Testing.gif)
 
 ## Your Task
 
