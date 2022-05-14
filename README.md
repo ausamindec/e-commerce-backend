@@ -2,6 +2,10 @@
 
 ## Explanation video links: 
 
+### Walkthrough to create Schema on Shell
+![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/schema_creation_on_shell.gif)
+
+
 ### Walkthrough to start the server
 
 ![watch the video](https://github.com/ausamindec/e-commerce-backend/blob/main/assets/e_commerce_app_start.gif)
